@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and traveling
 - 🌱 I’m currently learning Angular and .NET Core
 - 📫 Reach me at samad270289@gmail.com
-- 👀 View my resume here - https://anas9598.github.io/portfolio
+- 🌐 View my resume here - https://anas9598.github.io/portfolio
 
 <!---
 Anas9598/Anas9598 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
