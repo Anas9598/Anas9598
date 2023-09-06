@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anas9598
-- 🌱 I’m interested in coding and traveling
-- 👀 I’m working as an Angular developer.
+- 🌱 I’m interested in AI and language services using OpenAI's ChatGPT and Whisper ASR.
+- 👀 I’m working as a Angular/.NET developer.
 - 📫 Reach me at samad.27.02.89@gmail.com
 - 🌐 View my resume here - https://anas9598.github.io/portfolio
 
